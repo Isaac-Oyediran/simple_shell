@@ -4,6 +4,7 @@ A simple command line prompt that takes the most basics of commands that are pre
 
 The Shell will be able to handle the following:
 
+
 * Display a prompt and wait for the user to type a command. A command line always ends with a new line.
 * The prompt is displayed again each time a command has been executed.
 * The command lines are simple, no semicolons, no pipes, no redirections or any other advanced features.
